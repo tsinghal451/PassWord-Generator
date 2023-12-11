@@ -19,25 +19,25 @@ A simple password generator built with ReactJS and Vite. The app allows users to
 
 Open your browser and visit http://localhost:3000 to use the password generator.
 
-##Features
+## Features
 
 - Adjustable password length using a range input.
 - Option to include numbers in the generated password.
 - Option to include special characters in the generated password.
 - Copy-to-clipboard functionality for easy use.
 
-##Usage
+## Usage
 
 1. Adjust the password length using the range input.
 2. Toggle the checkboxes to include numbers and special characters.
 3. Click the "Generate Password" button to generate a random password.
 4. The generated password will be displayed, and you can click "Copy to Clipboard" to copy it.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have any improvements or features you'd like to add, please open an issue or submit a pull request.
 
-##Acknowledgments
+## Acknowledgments
 
 - This project was created using Vite and React.
 - Special thanks to the OpenAI GPT-3 model for providing language generation capabilities.
