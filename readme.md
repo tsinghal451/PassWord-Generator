@@ -7,7 +7,7 @@ A simple password generator built with ReactJS and Vite. The app allows users to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-password-generator.git
+   git clone https://github.com/tsinghal451/PassWord-Generator.git
 
 2. Navigate to the project directory
 3. Install dependencies:
